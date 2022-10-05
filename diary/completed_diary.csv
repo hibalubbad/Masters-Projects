@@ -1,0 +1,36 @@
+,PrimaryActivityCode,SecondaryActivityCode,PrimaryLabel,SecondaryLabel,DescriptiveLabel,START DATE,StartTime,EndTime,Duration,Weekday,BathWeekNb,Enjoyment Score,Caffeine intake,Energy level
+0,S801,,Sleep,,,17/02/2022,23:45,09:00,555.0,Thursday,20.0,2.0,0.0,tired 
+1,UD415,,Using Devices,,,18/02/2022,09:00,09:30,30.0,Friday,20.0,2.0,0.0,tired 
+2,ED145,UD415,Eating / Drinking,Using Devices,,18/02/2022,09:30,10:00,30.0,Friday,20.0,2.0,1.0,calm
+3,PW101,,Paid Work,,,18/02/2022,10:00,13:00,180.0,Friday,20.0,0.0,1.0,calm
+4,T695,UD415,Travelling,Using Devices,,18/02/2022,13:00,13:30,30.0,Friday,20.0,-2.0,0.0,tired 
+5,EL642,,Education / Lectures,,,18/02/2022,13:30,14:30,60.0,Friday,20.0,0.0,0.0,tired 
+6,ED145,L418,Eating / Drinking,Leisure,,18/02/2022,14:30,15:30,60.0,Friday,20.0,2.0,1.0,calm
+7,X893,UD415,Exercise,Using Devices,,18/02/2022,15:30,17:00,90.0,Friday,20.0,2.0,0.0,energetic 
+8,T695,UD415,Travelling,Using Devices,,18/02/2022,17:00,17:15,15.0,Friday,20.0,-1.0,0.0,calm
+9,O733,UD415,Other,Using Devices,Haircut,18/02/2022,17:15,18:30,75.0,Friday,20.0,1.0,1.0,energetic 
+10,T695,R523,Travelling,Reading,,18/02/2022,18:30,18:45,15.0,Friday,20.0,-1.0,0.0,energetic 
+11,CW982,ED145,Coursework,Eating / Drinking,,18/02/2022,18:45,21:30,165.0,Friday,20.0,-2.0,1.0,calm
+12,L418,ED145,Leisure,Eating / Drinking,,18/02/2022,21:30,22:45,75.0,Friday,20.0,2.0,1.0,calm
+13,O733,,Other,,skincare routine ,18/02/2022,22:45,23:15,30.0,Friday,20.0,0.0,0.0,tired 
+14,S801,,Sleep,,,18/03/2022,23:15,10:00,645.0,Friday,24.0,2.0,0.0,exhausted 
+15,UD415,,Using Devices,,,19/02/2022,10:00,10:30,30.0,Saturday,20.0,1.0,0.0,tired 
+16,ED145,,Eating / Drinking,,breakfast,19/02/2022,10:30,11:00,30.0,Saturday,20.0,2.0,1.0,calm
+17,PW101,,Paid Work,,,19/02/2022,11:00,13:00,120.0,Saturday,20.0,0.0,0.0,energetic 
+18,L418,,Leisure,,,19/02/2022,13:00,14:00,60.0,Saturday,20.0,2.0,0.0,energetic 
+19,H179,UD415,Housework,Using Devices,,19/02/2022,14:00,16:00,120.0,Saturday,20.0,-1.0,2.0,tired 
+20,ED145,,Eating / Drinking,,dinner ,19/02/2022,16:00,16:30,30.0,Saturday,20.0,2.0,0.0,energetic 
+21,X893,UD415,Exercise,Using Devices,gym,19/02/2022,16:30,18:00,90.0,Saturday,20.0,1.0,0.0,calm
+22,CW982,UD415,Coursework,Using Devices,,19/02/2022,18:00,19:00,60.0,Saturday,20.0,-1.0,2.0,tired 
+23,L418,,Leisure,,outing with friends ,19/02/2022,19:00,01:00,360.0,Saturday,20.0,1.0,0.0,energetic 
+24,S801,,Sleep,,,20/02/2022,01:00,11:30,630.0,Sunday,20.0,1.0,0.0,tired 
+25,O733,,Other,,morning routine ,20/02/2022,11:30,12:00,30.0,Sunday,20.0,1.0,0.0,tired 
+26,ED145,,Eating / Drinking,,breakfast ,20/02/2022,12:00,12:30,30.0,Sunday,20.0,1.0,1.0,energetic 
+27,H179,,Housework,,laundry and cleaning,20/02/2022,12:30,15:00,150.0,Sunday,20.0,-1.0,1.0,energetic 
+28,ED145,L418,Eating / Drinking,Leisure,,20/02/2022,15:00,16:00,60.0,Sunday,20.0,1.0,1.0,energetic 
+29,X893,UD415,Exercise,Using Devices,,20/02/2022,16:00,18:00,120.0,Sunday,20.0,2.0,0.0,calm
+30,O733,,Other,,shower ,20/02/2022,18:00,18:30,30.0,Sunday,20.0,1.0,0.0,calm
+31,ED145,,Eating / Drinking,,dinner ,20/02/2022,18:30,19:00,30.0,Sunday,20.0,1.0,0.0,calm
+32,L418,UD415,Leisure,Using Devices,bowling,20/02/2022,19:00,22:30,210.0,Sunday,20.0,2.0,0.0,energetic 
+33,O733,L418,Other,Leisure,netflix and bedtime routine,20/02/2022,22:30,23:00,30.0,Sunday,20.0,1.0,1.0,calm
+34,S801,,Sleep,,,20/02/2022,23:00,08:00,540.0,Sunday,20.0,1.0,0.0,exhausted 
